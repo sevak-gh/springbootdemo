@@ -1,0 +1,7 @@
+stanford:
+  student:
+    name: John
+    age: 25
+logging:
+  level:
+    root: DEBUG
